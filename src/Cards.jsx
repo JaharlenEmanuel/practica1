@@ -1,11 +1,11 @@
 export default function Cards() {
     const team = [
-        { nom: "Laura Torres", role: `Diseñadora UX/UI`, image: "./practica1/public/recursos/images/photo1.png" },
-        { nom: "Andrés García", role: "Desarrollador Frontend", image: "./practica1/public/recursos/images/photo2.png" },
-        { nom: "María López", role: "Project Manager", image: "./practica1/public/recursos/images/photo3.png" },
-        { nom: "José Ramírez", role: "QA Tester", image: "./practica1/public/recursos/images/photo4.png" },
-        { nom: "Sofía Díaz", role: "Desarrolladora Backend", image: "./practica1/public/recursos/images/photo5.png" },
-        { nom: "Carlos Vega", role: "DevOps Engineer", image: "./practica1/public/recursos/images/photo6.png" },
+        { nom: "Laura Torres", role: `Diseñadora UX/UI`, image: "./public/recursos/images/photo1.png" },
+        { nom: "Andrés García", role: "Desarrollador Frontend", image: "./public/recursos/images/photo2.png" },
+        { nom: "María López", role: "Project Manager", image: "./public/recursos/images/photo3.png" },
+        { nom: "José Ramírez", role: "QA Tester", image: "./public/recursos/images/photo4.png" },
+        { nom: "Sofía Díaz", role: "Desarrolladora Backend", image: "./public/recursos/images/photo5.png" },
+        { nom: "Carlos Vega", role: "DevOps Engineer", image: "./public/recursos/images/photo6.png" },
     ]
 
     return (
