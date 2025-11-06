@@ -7,6 +7,6 @@ export default defineConfig({
   plugins: [react(),
   tailwindcss(),
   ],
-  base: `/practica1`
+  base: "/practica1",
 
 })
